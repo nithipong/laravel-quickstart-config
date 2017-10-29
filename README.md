@@ -1,0 +1,1 @@
+echo "laravel-quickstart-config" >> README.md
